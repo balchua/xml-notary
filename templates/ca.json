@@ -1,0 +1,15 @@
+{
+    "CN": "Punggol CA",
+    "key": {
+      "algo": "rsa",
+      "size": 2048
+    },
+    "names": [
+    {
+      "C": "SG",
+      "L": "Singapore",
+      "O": "Main Office",
+      "OU": "Main Office Root CA"
+    }
+   ]
+  }

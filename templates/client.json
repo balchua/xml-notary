@@ -1,0 +1,15 @@
+{
+    "CN": "Client Connect",
+    "key": {
+      "algo": "rsa",
+      "size": 2048
+    },
+    "names": [
+      {
+        "C":  "SG",
+        "L":  "Punggol",
+        "O":  "Kopitiam",
+        "OU": "Western stall"
+      }
+    ]
+}
