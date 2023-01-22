@@ -1,4 +1,4 @@
-module github.com/balchua/sign-xml-doc
+module github.com/balchua/xml-notary
 
 go 1.19
 

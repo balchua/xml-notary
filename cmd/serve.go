@@ -6,8 +6,8 @@ package cmd
 import (
 	"strconv"
 
-	"github.com/balchua/sign-xml-doc/pkg/certmgr"
-	"github.com/balchua/sign-xml-doc/pkg/notary"
+	"github.com/balchua/xml-notary/pkg/certmgr"
+	"github.com/balchua/xml-notary/pkg/notary"
 	"github.com/beevik/etree"
 	"github.com/gofiber/fiber/v2"
 	dsig "github.com/russellhaering/goxmldsig"

@@ -21,7 +21,7 @@ THE SOFTWARE.
 */
 package main
 
-import "github.com/balchua/sign-xml-doc/cmd"
+import "github.com/balchua/xml-notary/cmd"
 
 func main() {
 	cmd.Execute()
